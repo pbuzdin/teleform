@@ -1,0 +1,20 @@
+{
+  "name": "banana-bot",
+  "version": "0.0.1",
+  "description": "um bote",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1",
+    "superagent": "^3.6.3",
+    "body-parser": "^1.18.2",
+    "seed-random": "^2.2.0",
+    "prettyaml": "^1.3.0"
+  }
+}
